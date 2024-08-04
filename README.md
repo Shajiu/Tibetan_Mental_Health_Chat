@@ -9,9 +9,8 @@
 - 📗 支持绝大部分主流的开源大模型，如Baichuan2、CodeLLaMA、LLaMA2、LLaMA、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom、XVERSE等。
 - 📗 支持lora与base model进行权重合并，推理更便捷。
 
-## 二、系统demo
-![面向藏语的心理健康咨询大模型平台](https://github.com/Shajiu/LLM/blob/main/Tibetan_Mental_Health_Chat/demo.png)
-![Yak](https://github.com/Shajiu/Yak-Llama-2/blob/main/cpt_with_peft_lora/logo.png#pic_center=600x200)
+## 二、系统Demo
+![面向藏语的心理健康咨询大模型平台](https://github.com/Shajiu/Tibetan_Mental_Health_Chat/blob/main/demo.png#pic_center=600x200)
 
 
 
