@@ -11,6 +11,7 @@
 
 ## 二、系统demo
 ![面向藏语的心理健康咨询大模型平台](https://github.com/Shajiu/LLM/blob/main/Tibetan_Mental_Health_Chat/demo.png)
+![Yak](https://github.com/Shajiu/Yak-Llama-2/blob/main/cpt_with_peft_lora/logo.png#pic_center=600x200)
 
 
 
