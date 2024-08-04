@@ -30,7 +30,7 @@ pip install requirements.txt
 
 | 模型                                                                             | 基座模型                                | Max Length |
 |--------------------------------------------------------------------------------|-------------------------------------|------------|
-| [Tibetan_Baichuan2_7B_Mental_Health](https://huggingface.co/shajiu/Tibetan_Baichuan2_7B_Mental_Health) | baichuan-inc/Baichuan2-7B-Base     |1024     |  
+| [Tibetan_Llama2_7B_Mental_Health](https://huggingface.co/shajiu/Tibetan_Llama2_7B_Mental_Health) | 在Llama2_7B上直接藏语训练健康指令微调     |1024     |  
 | [Tibetan_Llama2_13B_Mental_Health](https://huggingface.co/shajiu/Tibetan_Llama2_13B_Mental_Health)   | 在Llama2_13B上做了词汇表扩充/继续毓预训练/再指令微调      |1024     |
 
 
